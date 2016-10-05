@@ -1,0 +1,13 @@
+.bookcover {
+	background-image: url(../images/philosophy.jpg);
+	background-size: cover;
+	width: 1280px;
+	height: 640px;
+}
+
+h1 {font-family: 'Abel', sans-serif;	
+font-size: 40px;}
+
+h2 {font-family: 'Quicksand', sans-serif;}
+
+h3 {font-family: 'Quicksand', sans-serif;}
