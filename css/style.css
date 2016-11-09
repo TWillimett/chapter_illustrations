@@ -2,12 +2,25 @@
 	background-image: url(../images/anatomy.jpg);
 	background-size: cover;
 	width:100%;
+<<<<<<< HEAD
 	height: 1100px;
+=======
+<<<<<<< HEAD
+	height: 1100px;
+=======
+	height: 640px;
+	background-attachment: fixed;
+>>>>>>> refs/remotes/origin/gh-pages
+>>>>>>> refs/remotes/origin/master
 	position: relative;
 	z-index: 3;
 }
 
 nav,.main {
+<<<<<<< HEAD
+	width: 100%;
+=======
+<<<<<<< HEAD
 	width: 100%;
 	float: left;
 	font-family: 'Quicksand', sans-serif;
@@ -31,6 +44,35 @@ nav,.main {
 .chapter3	{
 
 }
+=======
+	width: 65%;
+>>>>>>> refs/remotes/origin/master
+	float: left;
+	font-family: 'Quicksand', sans-serif;
+	position: relative;
+	color: grey;
+	font-size: 20px
+}
+
+.japan	{
+	width: 23%;
+	float: right;
+	margin-right: 30px;
+}
+
+.chapter2	{
+	float: right;
+	width: 30%;
+	margin-right: 10px
+}
+
+<<<<<<< HEAD
+.chapter3	{
+
+}
+=======
+>>>>>>> refs/remotes/origin/gh-pages
+>>>>>>> refs/remotes/origin/master
 
 
 nav	{
@@ -43,10 +85,23 @@ h1 {font-family: 'Abel', sans-serif;
 font-size: 40px;}
 
 
+
 h2 {font-family: 'Quicksand', sans-serif;}
 
 h3 {font-family: 'Quicksand', sans-serif;}
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+nav li {
+	display: inline-block;
+	border: 1px;
+	border-color: white;
+	border-style: solid;
+	margin-right: 10px;
+>>>>>>> refs/remotes/origin/gh-pages
+>>>>>>> refs/remotes/origin/master
 
 }
 
@@ -73,6 +128,13 @@ footer {clear: right;}
   display:block;
   min-height: 100%;
   min-width: 100%;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+  position: fixed;
+>>>>>>> refs/remotes/origin/gh-pages
+>>>>>>> refs/remotes/origin/master
   top: 0;
   right: 0;
   z-index: 0;
